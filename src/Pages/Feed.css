@@ -1,0 +1,13 @@
+#feed{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    height: fit fit-content;
+    flex-wrap: wrap;
+    width: 100%;
+    gap:  1rem;
+    margin: 1rem;
+    margin-top: 11rem;
+    
+    
+}
